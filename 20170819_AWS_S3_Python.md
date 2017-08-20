@@ -29,4 +29,4 @@ region = us-west-2
 
 Ref:
 * [Boto 3 - The AWS SDK for Python](https://github.com/boto/boto3#boto-3---the-aws-sdk-for-python)
-*
+* [Boto 3 Documentation](http://boto3.readthedocs.io/en/latest/)
